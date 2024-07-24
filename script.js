@@ -18,7 +18,7 @@ document.querySelector('.card').appendChild(countdownElement);
 //Alterar imagem ao clicar
 const image = document.querySelector('img');
 image.addEventListener('click',()=>{
-    image.src = voltaasaulas.jpg;
+    image.src = voltaasaulas2.jpg;
 });
 
 //Mostrar uma mensagem de boas vindas com animação
